@@ -15,33 +15,31 @@ This page
 This material
 [END LIST]
 
-describe the following product sold in a pet supplies store:
-Product name: Mermaid's Mice Trio
-tags: cat, multiple, catnip
+describe the following product sold in Best Buy:
+Product name: Macbook Air
+tags: Mac, laptop
 +++++
-Entertain your kitty with the Mermaid's Mice Trio. These adorable plush mice are dressed as mermaids and filled with catnip to captivate their curiosity.
+Apple MacBook Air 13.6" w/ Touch ID (2022) - (Apple M2 / 16GB RAM / 256GB SSD) - English
 
-describe the following product sold in a pet supplies store:
-Product name: Anchors Away Chew Toy
-tags: dog, teeth
+describe the following product sold in Best Buy:
+Product name: Keyboard
+tags: Keyboard
 +++++
-Keep your dog's teeth and gums shipshape with the Anchors Away Chew Toy. Made from durable materials, it satisfies their chewing instincts while promoting dental health.
+Logitech MK470 Slim Combo Wireless Optical Keyboard & Mouse Combo - Pink
 
-describe the following product sold in a pet supplies store:
-Product name: Pirate Parrot Teaser Wand
-tags: dog, colorful
+describe the following product sold in Best Buy:
+Product name: Mouse
+tags: Mouse
 +++++
-Engage your cat in a playful pursuit with the Pirate Parrot Teaser Wand. The colorful feathers and jingling bells mimic the mischievous charm of a pirate's parrot.
+Razer Basilisk V3 X HyperSpeed 18000 DPI Wireless Optical Gaming Mouse - Classic Black
 
-
-describe the following product sold in a pet supplies store:
-product name: Seashell Snuggle Bed
-tags: dog, cat, comfort
+describe the following product sold in Best Buy:
+product name: Monitor
+tags: monitor, PC
 +++++
-Give your furry friend a cozy spot to curl up with the Seashell Snuggle Bed. Shaped like a seashell, this plush bed provides comfort and relaxation for cats and small dogs.
+Dell 31.5" 1440p WQHD 165Hz 2ms GTG Curved VA LED FreeSync Gaming Monitor (S3222DGM) - Black
 
-
-describe the following product sold in a pet supplies store:
+describe the following product sold in Best Buy:
 Product name: {{$name}}
 tags: {{$tags}}
 +++++
